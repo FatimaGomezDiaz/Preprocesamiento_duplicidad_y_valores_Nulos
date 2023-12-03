@@ -1,6 +1,8 @@
 # Nombre: Fatima Gómez Díaz
 # Grupo: [951]
 
+#Realizar una función que reciba como parámetro un DataFrame y un máximo porcentaje. Este debe eliminar todas las columnas que superen o igualen el máximo porcentaje de valores nulos establecidos en el DataFrame Original. Retornar la lista nombres de columnas eliminadas.  Validar que el porcentaje máximo esté entre 0 y 1.
+
 import pandas as pd
 import numpy as np
 
