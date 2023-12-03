@@ -1,6 +1,9 @@
 # Nombre: Fatima Gómez Díaz
 # Grupo: [951]
 
+#Realizar una función que reciba como parámetro un DataFrame y elimine los renglones repetidos en el DataFrame Original. Debe retornar la cantidad de renglones eliminados.
+
+
 import pandas as pd
 import numpy as np
 
