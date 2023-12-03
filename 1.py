@@ -1,6 +1,9 @@
 # Nombre: Fatima Gómez Díaz
 # Grupo: [951]
 
+#Realizar una función que reciba como parámetro un DataFrame y  retorne el porcentaje de valores nulos de cada columna.
+
+
 import pandas as pd
 import numpy as np
 
