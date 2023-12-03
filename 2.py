@@ -1,6 +1,8 @@
 # Nombre: Fatima Gómez Díaz
 # Grupo: [951]
 
+#Realizar una función que reciba como parámetro un DataFrame y retorne el número de renglones duplicados
+
 import pandas as pd
 import numpy as np
 
