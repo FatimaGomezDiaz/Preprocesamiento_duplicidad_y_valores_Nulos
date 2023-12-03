@@ -1,6 +1,8 @@
 # Nombre: Fatima Gómez Díaz
 # Grupo: [951]
 
+#Realizar una función que reciba como parámetro un DataFrame, una lista con los nombres de las columnas a verificar y una cadena. La cadena solo puede ser mean, bfill o ffill, en caso contrario lanzar una excepción. Debe sustituir los valores nulos por el método especificado y retornar el DataFrame modificado.
+
 import pandas as pd
 import numpy as np
 
